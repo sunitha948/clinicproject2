@@ -1,0 +1,37 @@
+@charset "ISO-8859-1";
+
+.icon {
+	color: #0000ff;
+}
+.login {
+	background-image: url("https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+.index {
+	background-image: url("https://images.unsplash.com/photo-1624362772755-4d5843e67047?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+
+
+.patient {
+	background-image: url("https://images.unsplash.com/photo-1626351545208-28c9080106ba?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.admin {
+	background-image: url("https://images.unsplash.com/photo-1583953458882-302655b5c376?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+h1 {
+	font-family: 'Anton', sans-serif;
+}
+i {
+	color: #000000;
+}
